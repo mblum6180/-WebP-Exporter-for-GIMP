@@ -1,0 +1,1 @@
+# -WebP-Exporter-for-GIMP
